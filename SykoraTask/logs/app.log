@@ -1,0 +1,16 @@
+22:19:13.972 [SykoraTask.App.main()] INFO  SykoraTask.App - Input absolute path to file.
+22:19:20.843 [SykoraTask.App.main()] INFO  SykoraTask.App - Loading file.
+22:19:21.272 [SykoraTask.App.main()] INFO  SykoraTask.App - 'Data' is incorrect number
+22:19:21.274 [SykoraTask.App.main()] INFO  SykoraTask.App - 'x' is incorrect number
+22:19:21.275 [SykoraTask.App.main()] INFO  SykoraTask.App - Finished loading file.
+22:19:21.276 [SykoraTask.App.main()] INFO  SykoraTask.App - Processing prime numbers
+22:19:21.279 [SykoraTask.App.main()] INFO  SykoraTask.App - Finished processing prime numbers
+22:19:21.279 [SykoraTask.App.main()] INFO  SykoraTask.App - 5645657
+22:19:21.279 [SykoraTask.App.main()] INFO  SykoraTask.App - 15619
+22:19:21.280 [SykoraTask.App.main()] INFO  SykoraTask.App - 1234187
+22:19:21.280 [SykoraTask.App.main()] INFO  SykoraTask.App - 211
+22:19:21.280 [SykoraTask.App.main()] INFO  SykoraTask.App - 7
+22:19:21.280 [SykoraTask.App.main()] INFO  SykoraTask.App - 9788677
+22:19:21.280 [SykoraTask.App.main()] INFO  SykoraTask.App - 23311
+22:19:21.280 [SykoraTask.App.main()] INFO  SykoraTask.App - 54881
+22:19:21.280 [SykoraTask.App.main()] INFO  SykoraTask.App - 2147483647
